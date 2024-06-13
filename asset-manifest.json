@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/musiccollection/static/css/main.06e2548c.css",
-    "main.js": "/musiccollection/static/js/main.3e092c57.js",
-    "static/js/453.9c8c6b6c.chunk.js": "/musiccollection/static/js/453.9c8c6b6c.chunk.js",
-    "index.html": "/musiccollection/index.html",
-    "main.06e2548c.css.map": "/musiccollection/static/css/main.06e2548c.css.map",
-    "main.3e092c57.js.map": "/musiccollection/static/js/main.3e092c57.js.map",
-    "453.9c8c6b6c.chunk.js.map": "/musiccollection/static/js/453.9c8c6b6c.chunk.js.map"
+    "main.css": "/music-collection/static/css/main.06e2548c.css",
+    "main.js": "/music-collection/static/js/main.f72a3012.js",
+    "static/js/453.9c8c6b6c.chunk.js": "/music-collection/static/js/453.9c8c6b6c.chunk.js",
+    "index.html": "/music-collection/index.html",
+    "main.06e2548c.css.map": "/music-collection/static/css/main.06e2548c.css.map",
+    "main.f72a3012.js.map": "/music-collection/static/js/main.f72a3012.js.map",
+    "453.9c8c6b6c.chunk.js.map": "/music-collection/static/js/453.9c8c6b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06e2548c.css",
-    "static/js/main.3e092c57.js"
+    "static/js/main.f72a3012.js"
   ]
 }

@@ -1,0 +1,98 @@
+:root {
+  --primary-color: #e6b367;
+  --background-color: #010c0f;
+  --card-background-color: #ffffff;
+}
+
+* {
+  text-decoration: none;
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.headerContainer {
+  background: linear-gradient(45deg, var(--secondary-color-start), var(--secondary-color-end));
+  color: var(--background-color);
+}
+
+.headerContainer__title {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #e6b367;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  color: #e6b367;
+}
+
+button {
+  border-radius: 25px;
+  color: #ccc;
+  background-color: black;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+p {
+  color: #2c3e50;
+}
+
+.collectionsection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 50px;
+}
+
+.collectioncontainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.collectionitem {
+  width: 350px;
+  background-color: #ffffff;
+  transition: transform 0.3s ease;
+}
+
+.collectionitem:hover {
+  transform: scale(1.2);
+}
+
+.itemcover {
+  width: 350px;
+  height: 350px;
+}
+
+.itemInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+}
+
+/*# sourceMappingURL=main.css.map */

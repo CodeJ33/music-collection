@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #e6b367;
+    --background-color: #010c0f;
+    --card-background-color: #ffffff;
+}
+
+* {
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+
+}
+
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}

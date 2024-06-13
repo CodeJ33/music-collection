@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musiccollection/static/css/main.06e2548c.css",
+    "main.js": "/musiccollection/static/js/main.3e092c57.js",
+    "static/js/453.9c8c6b6c.chunk.js": "/musiccollection/static/js/453.9c8c6b6c.chunk.js",
+    "index.html": "/musiccollection/index.html",
+    "main.06e2548c.css.map": "/musiccollection/static/css/main.06e2548c.css.map",
+    "main.3e092c57.js.map": "/musiccollection/static/js/main.3e092c57.js.map",
+    "453.9c8c6b6c.chunk.js.map": "/musiccollection/static/js/453.9c8c6b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e2548c.css",
+    "static/js/main.3e092c57.js"
+  ]
+}

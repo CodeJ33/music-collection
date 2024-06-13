@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# MUSIC-COLLECTION
 
 Mini application to display your music collection from DISCOGS, this gave me the opportunity to work on the API
 

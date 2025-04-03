@@ -1,0 +1,40 @@
+.loader {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column; // Ajouté pour aligner les éléments en colonne
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7); // Fond noir semi-transparent
+    z-index: 10;
+    text-align: center; // Assure que le texte est bien centré
+}
+
+.loader__one {
+    width: 10rem; // Taille du cercle
+    height: 10rem;
+    border-radius: 50%;
+    border: 8px solid #000;
+    border-top-color: transparent;
+    animation: loader 1s infinite linear;
+}
+
+.loaderText {
+    margin-top: 15px; // Espacement entre le spinner et le texte
+    font-size: 1.2rem;
+    color: white;
+    text-align: center; // Centre le texte horizontalement
+}
+
+@keyframes loader {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

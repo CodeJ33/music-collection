@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/music-collection/static/css/main.27a2ae13.css",
+    "main.js": "/music-collection/static/js/main.466b373e.js",
+    "static/js/453.9c8c6b6c.chunk.js": "/music-collection/static/js/453.9c8c6b6c.chunk.js",
+    "static/media/background.jpg": "/music-collection/static/media/background.97b58c2c59a74cec1fe8.jpg",
+    "index.html": "/music-collection/index.html",
+    "main.27a2ae13.css.map": "/music-collection/static/css/main.27a2ae13.css.map",
+    "main.466b373e.js.map": "/music-collection/static/js/main.466b373e.js.map",
+    "453.9c8c6b6c.chunk.js.map": "/music-collection/static/js/453.9c8c6b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a2ae13.css",
+    "static/js/main.466b373e.js"
+  ]
+}
